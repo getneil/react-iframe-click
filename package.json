@@ -4,13 +4,10 @@
     "license": "MIT",
     "main": "build/index.js",
     "typings": "build/index.d.ts",
-    "peerDependencies": {
-        "react": "^16.8.0"
-    },
     "devDependencies": {
         "@types/react": "^16.9.2",
-        "react": "^16.8.0 || ^17.0.0",
-        "typescript": "^3.6.2"
+        "react": "^18.0.0",
+        "typescript": "^4.4.4"
     },
     "homepage": "https://github.com/springload/react-iframe-click/",
     "scripts": {
