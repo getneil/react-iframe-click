@@ -5,8 +5,8 @@
     "main": "build/index.js",
     "typings": "build/index.d.ts",
     "devDependencies": {
-        "@types/react": "^16.9.2",
-        "react": "^18.0.0",
+        "@types/react": "18.0.1",
+        "react": "18.1.0",
         "typescript": "^4.4.4"
     },
     "homepage": "https://github.com/springload/react-iframe-click/",
